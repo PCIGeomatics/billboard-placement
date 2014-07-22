@@ -19,10 +19,10 @@ New to Github? <a href="http://htmlpreview.github.com/?https://github.com/Esri/e
 
 <h1>Requirements</h1>
 
-Python 2.7.x
-GeomaticaPythonAPI
-ArcPy
-ArcGIS Desktop 10.2.x
+Python 2.7.x<br>
+GeomaticaPythonAPI<br>
+ArcPy<br>
+ArcGIS Desktop 10.2.x<br>
 
 To run this program, you will need to copy the two main Python program (pci_esri_solutions.py and pci_esri_solution_IO.py) to a local folder on your machine. In addition, you will need the input imagery. The complete demonstration package is available here: <a href="http://dl.pcigeomatics.com/Marketing/geomatica_demonstrations/Python_esri-pci.zip" target="_blank">Access imagery and packaged code here</a>
 
