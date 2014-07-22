@@ -30,7 +30,7 @@ To run this program, you will need to copy the two main Python program (pci_esri
 
 <h1>Issues</h1>
 
-In order to properly execute this program, you must initiate the 64 bit version of Python from the ArcGIS path. Navigate to the 64 bit ArcGIS path in the Python folder (C:\Python27\ArcGISx6410.2).
+In order to properly execute this program, you must initiate the 64 bit version of Python from the ArcGIS path. Navigate to the 64 bit ArcGIS path in the Python folder (C:\Python27\ArcGISx6410.2), and launch "python.exe" from this location.
 
 Find a bug or want to request a new feature? Please let us know by submitting an issue (marketing@pcigeomatics.com)
 
