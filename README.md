@@ -23,11 +23,14 @@ Python 2.7.x<br>
 GeomaticaPythonAPI<br>
 ArcPy<br>
 ArcGIS Desktop 10.2.x<br>
+ArcGIS Feature Analyst<br>
 
 To run this program, you will need to copy the two main Python program (pci_esri_solutions.py and pci_esri_solution_IO.py) to a local folder on your machine. In addition, you will need the input imagery. The complete demonstration package is available here: <a href="http://dl.pcigeomatics.com/Marketing/geomatica_demonstrations/Python_esri-pci.zip" target="_blank">Access imagery and packaged code here</a>
 
 
 <h1>Issues</h1>
+
+In order to properly execute this program, you must initiate the 64 bit version of Python from the ArcGIS path. Navigate to the 64 bit ArcGIS path in the Python folder (C:\Python27\ArcGISx6410.2).
 
 Find a bug or want to request a new feature? Please let us know by submitting an issue (marketing@pcigeomatics.com)
 
