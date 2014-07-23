@@ -25,7 +25,7 @@ ArcPy<br>
 ArcGIS Desktop 10.2.x<br>
 ArcGIS Feature Analyst<br>
 
-To run this program, you will need to copy the two main Python program (pci_esri_solutions.py and pci_esri_solution_IO.py) to a local folder on your machine. In addition, you will need the input imagery. The complete demonstration package is available here: <a href="http://dl.pcigeomatics.com/Marketing/geomatica_demonstrations/Python_esri-pci.zip" target="_blank">Access imagery and packaged code here</a>
+To run this program, you will need to copy the two main Python program (pci_esri_solutions.py and pci_esri_solution_IO.py) to a local folder on your machine. In addition, you will need the input imagery. The complete demonstration package is available here: <br><a href="http://dl.pcigeomatics.com/Marketing/geomatica_demonstrations/Python_esri-pci.zip" target="_blank">Access imagery and packaged code here</a>
 
 
 <h1>Issues</h1>
